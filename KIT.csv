@@ -1,0 +1,384 @@
+code,input,label,voice,sample,note
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl01_rr1.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl01_rr2.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl01_rr3.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl01_rr4.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl11_rr1.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl11_rr2.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl11_rr3.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl11_rr4.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl22_rr1.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl22_rr2.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl22_rr3.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl22_rr4.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl32_rr1.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl32_rr2.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl32_rr3.wav,
+36,kick,Kick,kick,smdrums_kick1_hit_main_vl32_rr4.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl01_rr1.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl01_rr2.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl11_rr1.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl11_rr2.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl22_rr1.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl22_rr2.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl32_rr1.wav,
+38,snare,Snare,snare,smdrums_snare1_hit_main_vl32_rr2.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl01_rr1.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl01_rr2.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl11_rr1.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl11_rr2.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl22_rr1.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl22_rr2.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl32_rr1.wav,
+40,snare_rim,Snare rim,snare,smdrums_snare1_rimshot_main_vl32_rr2.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl01_rr1.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl01_rr2.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl01_rr3.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl01_rr4.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl22_rr1.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl22_rr2.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl22_rr3.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl22_rr4.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl43_rr1.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl43_rr2.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl43_rr3.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl43_rr4.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl64_rr1.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl64_rr2.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl64_rr3.wav,
+42,hat,Hi-hat,hat,smdrums_hihat_closed_main_vl64_rr4.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl01_rr1.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl01_rr2.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl01_rr3.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl01_rr4.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl05_rr1.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl05_rr2.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl05_rr3.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl05_rr4.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl08_rr1.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl08_rr2.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl08_rr3.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl08_rr4.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl12_rr1.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl12_rr2.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl12_rr3.wav,
+22,hat_half,Hi-hat half-open,hat,smdrums_hihat_half_main_vl12_rr4.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl01_rr1.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl01_rr2.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl01_rr3.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl01_rr4.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl14_rr1.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl14_rr2.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl14_rr3.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl14_rr4.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl27_rr1.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl27_rr2.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl27_rr3.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl27_rr4.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl40_rr1.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl40_rr2.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl40_rr3.wav,
+23,hat_3,Hi-hat 3,hat,smdrums_hihat_loose_main_vl40_rr4.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl01_rr1.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl01_rr2.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl01_rr3.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl01_rr4.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl05_rr1.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl05_rr2.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl05_rr3.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl05_rr4.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl10_rr1.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl10_rr2.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl10_rr3.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl10_rr4.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl14_rr1.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl14_rr2.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl14_rr3.wav,
+24,hat_4,Hi-hat 4,hat,smdrums_hihat_open_main_vl14_rr4.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl01_rr1.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl01_rr2.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl01_rr3.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl01_rr4.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl11_rr1.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl11_rr2.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl11_rr3.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl11_rr4.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl21_rr1.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl21_rr2.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl21_rr3.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl21_rr4.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl31_rr1.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl31_rr2.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl31_rr3.wav,
+44,hat_pedal,Hi-hat pedal,hat,smdrums_hihat_foot_main_vl31_rr4.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl01_rr1.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl01_rr2.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl01_rr3.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl01_rr4.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl05_rr1.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl05_rr2.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl05_rr3.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl05_rr4.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl10_rr1.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl10_rr2.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl10_rr3.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl10_rr4.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl14_rr1.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl14_rr2.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl14_rr3.wav,
+46,hat_open,Hi-hat open,hat_open,smdrums_hihat_open_main_vl14_rr4.wav,
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl01_rr1.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl01_rr2.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl01_rr3.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl01_rr4.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl05_rr1.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl05_rr2.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl05_rr3.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl05_rr4.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl10_rr1.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl10_rr2.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl10_rr3.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl10_rr4.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl14_rr1.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl14_rr2.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl14_rr3.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+26,hat_open_2,Hi-hat open 2,hat_open,smdrums_hihat_open_main_vl14_rr4.wav,SM Drums records one open position; Hi-hat open 2 is the same recording
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl01_rr1.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl01_rr2.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl01_rr3.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl01_rr4.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl02_rr1.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl02_rr2.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl02_rr3.wav,
+21,splash,Splash,hat_open,salamander_splash1_hit_main_vl02_rr4.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl01_rr1.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl01_rr2.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl01_rr3.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl01_rr4.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl09_rr1.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl09_rr2.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl09_rr3.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl09_rr4.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl17_rr1.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl17_rr2.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl17_rr3.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl17_rr4.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl25_rr1.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl25_rr2.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl25_rr3.wav,
+48,tom_1,Tom 1,tom_high,smdrums_tom1_hit_main_vl25_rr4.wav,
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl01_rr1.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl01_rr2.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl01_rr3.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl01_rr4.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl09_rr1.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl09_rr2.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl09_rr3.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl09_rr4.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl17_rr1.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl17_rr2.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl17_rr3.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl17_rr4.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl25_rr1.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl25_rr2.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl25_rr3.wav,Tom 1 rim plays the Tom 1 head
+50,tom_1_rim,Tom 1 rim,tom_high,smdrums_tom1_hit_main_vl25_rr4.wav,Tom 1 rim plays the Tom 1 head
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl01_rr1.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl01_rr2.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl01_rr3.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl01_rr4.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl09_rr1.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl09_rr2.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl09_rr3.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl09_rr4.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl17_rr1.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl17_rr2.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl17_rr3.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl17_rr4.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl25_rr1.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl25_rr2.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl25_rr3.wav,
+51,ride,Ride,ride,smdrums_ride1_bow_main_vl25_rr4.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl01_rr1.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl01_rr2.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl01_rr3.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl01_rr4.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl09_rr1.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl09_rr2.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl09_rr3.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl09_rr4.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl16_rr1.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl16_rr2.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl16_rr3.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl16_rr4.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl24_rr1.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl24_rr2.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl24_rr3.wav,
+53,ride_bell,Ride bell,ride,smdrums_ride1_bell_main_vl24_rr4.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl01_rr1.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl01_rr2.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl01_rr3.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl02_rr1.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl02_rr2.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl02_rr3.wav,
+59,ride_edge,Ride edge,ride,salamander_ride2_edge_main_vl02_rr4.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl01_rr1.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl01_rr2.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl01_rr3.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl01_rr4.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl11_rr1.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl11_rr2.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl11_rr3.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl11_rr4.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl20_rr1.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl20_rr2.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl20_rr3.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl20_rr4.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl30_rr1.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl30_rr2.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl30_rr3.wav,
+45,tom_2,Tom 2,tom_mid,smdrums_tom2_hit_main_vl30_rr4.wav,
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl01_rr1.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl01_rr2.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl01_rr3.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl01_rr4.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl11_rr1.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl11_rr2.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl11_rr3.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl11_rr4.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl20_rr1.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl20_rr2.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl20_rr3.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl20_rr4.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl30_rr1.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl30_rr2.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl30_rr3.wav,Tom 2 rim plays the Tom 2 head
+47,tom_2_rim,Tom 2 rim,tom_mid,smdrums_tom2_hit_main_vl30_rr4.wav,Tom 2 rim plays the Tom 2 head
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl01_rr1.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl01_rr2.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl01_rr3.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl01_rr4.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl08_rr1.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl08_rr2.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl08_rr3.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl08_rr4.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl15_rr1.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl15_rr2.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl15_rr3.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl15_rr4.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl22_rr1.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl22_rr2.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl22_rr3.wav,
+49,crash,Crash,crash,smdrums_crash1_edge_main_vl22_rr4.wav,
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl01_rr1.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl01_rr2.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl01_rr3.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl01_rr4.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl08_rr1.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl08_rr2.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl08_rr3.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl08_rr4.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl15_rr1.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl15_rr2.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl15_rr3.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl15_rr4.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl22_rr1.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl22_rr2.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl22_rr3.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+55,crash_edge,Crash edge,crash,smdrums_crash1_edge_main_vl22_rr4.wav,SM Drums records one articulation per crash; Crash edge is the same recording
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl01_rr1.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl01_rr2.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl01_rr3.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl01_rr4.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl09_rr1.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl09_rr2.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl09_rr3.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl09_rr4.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl18_rr1.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl18_rr2.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl18_rr3.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl18_rr4.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl26_rr1.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl26_rr2.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl26_rr3.wav,
+43,tom_3,Tom 3,tom_low,smdrums_tom3_hit_main_vl26_rr4.wav,
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl01_rr1.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl01_rr2.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl01_rr3.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl01_rr4.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl09_rr1.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl09_rr2.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl09_rr3.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl09_rr4.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl18_rr1.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl18_rr2.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl18_rr3.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl18_rr4.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl26_rr1.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl26_rr2.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl26_rr3.wav,Tom 3 rim plays the Tom 3 head
+58,tom_3_rim,Tom 3 rim,tom_low,smdrums_tom3_hit_main_vl26_rr4.wav,Tom 3 rim plays the Tom 3 head
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl01_rr1.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl01_rr2.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl01_rr3.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl01_rr4.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl09_rr1.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl09_rr2.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl09_rr3.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl09_rr4.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl18_rr1.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl18_rr2.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl18_rr3.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl18_rr4.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl26_rr1.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl26_rr2.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl26_rr3.wav,
+41,tom_4,Tom 4,tom_low,smdrums_tom4_hit_main_vl26_rr4.wav,
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl01_rr1.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl01_rr2.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl01_rr3.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl01_rr4.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl09_rr1.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl09_rr2.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl09_rr3.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl09_rr4.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl18_rr1.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl18_rr2.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl18_rr3.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl18_rr4.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl26_rr1.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl26_rr2.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl26_rr3.wav,Tom 4 rim plays the Tom 4 head
+39,tom_4_rim,Tom 4 rim,tom_low,smdrums_tom4_hit_main_vl26_rr4.wav,Tom 4 rim plays the Tom 4 head
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl01_rr1.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl01_rr2.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl01_rr3.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl01_rr4.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl08_rr1.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl08_rr2.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl08_rr3.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl08_rr4.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl15_rr1.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl15_rr2.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl15_rr3.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl15_rr4.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl22_rr1.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl22_rr2.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl22_rr3.wav,
+57,crash_2,Crash 2,crash,smdrums_crash2_edge_main_vl22_rr4.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl01_rr1.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl01_rr2.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl01_rr3.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl01_rr4.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl08_rr1.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl08_rr2.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl08_rr3.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl08_rr4.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl15_rr1.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl15_rr2.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl15_rr3.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl15_rr4.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl22_rr1.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl22_rr2.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl22_rr3.wav,
+52,crash_2_edge,Crash 2 edge,crash,smdrums_crash2_edge_main_vl22_rr4.wav,
