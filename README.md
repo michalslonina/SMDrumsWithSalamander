@@ -1,8 +1,8 @@
-# MPS-600 pool — one drum kit covering every pad
+# SMDrumsWithSalamander
 
-255 samples that answer all **26 inputs** of a Millenium MPS-600, selected from the
-Salamander Drumkit (Alexander Holm) and SM Drums (Scott McLean), under their own names from
-the two mirrors this pool is built out of.
+255 samples that answer all **26 inputs** of the electronic drum kit LARG plays: SM Drums
+(Scott McLean) and the Salamander Drumkit (Alexander Holm), under their own names from the
+two mirrors this kit is assembled out of.
 
 **This is a remix, assembled for [LARG](https://github.com/michalslonina/lustiger)** — the
 drum engine loads one directory and every pad of the kit answers. It is not a release of
@@ -12,10 +12,10 @@ choice of which ones and a name for each.
 
 ## Why this repository exists
 
-The [Millenium MPS-600](https://www.thomann.de/gb/millenium_mps_600.htm) is a Medeli DD-508
-kit: kick, snare, snare rim, seven hi-hat states, splash, four toms with rims, a two-zone
-ride and two two-zone crashes. No free pack covers it whole. This pool does, at a fixed
-depth, so a sampler can load a directory and have every pad make a sound.
+The layout these were selected for is a 26-input electronic kit: kick, snare, snare rim,
+seven hi-hat states, splash, four toms with rims, a two-zone ride and two two-zone crashes.
+No free pack covers it whole. This kit does, at a fixed depth, so a sampler can load a
+directory and have every pad make a sound.
 
 It is a **selection**, not a new recording: not one byte of audio was altered. It is not the
 authors' work and not their repository; the two mirrors below are the canonical copies of the
@@ -165,7 +165,7 @@ is neither.
 ```
 source/<name>.wav      the upstream bytes, unmodified
 opus/<name>.opus       the Opus twin of every source file, same stem
-KIT.csv                MPS-600 code → sample, one row per input file, with substitutions marked
+KIT.csv                input code → sample, one row per input file, with substitutions marked
 PROVENANCE.csv         every sample's origin mirror, upstream path, licence and measurements
 LICENSE                CC BY-SA 3.0 — the salamander files' licence
 NOTICE.md              which grant covers what, and why this is a collection
@@ -198,5 +198,5 @@ edge — it appears in `source/` once and `KIT.csv` maps both inputs to it.
 ## Removal
 
 Ask for removal by opening an issue at
-<https://github.com/michalslonina/drum-samples-mps600/issues>, or by contacting
+<https://github.com/michalslonina/SMDrumsWithSalamander/issues>, or by contacting
 `michalslonina` on GitHub. Removal is immediate.

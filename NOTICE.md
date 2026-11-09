@@ -49,5 +49,5 @@ Nothing here claims SM Drums is in the public domain, and nothing here relicense
 ## Removal
 
 Ask for removal of any part of this repository by opening an issue at
-<https://github.com/michalslonina/drum-samples-mps600/issues>, or by contacting
+<https://github.com/michalslonina/SMDrumsWithSalamander/issues>, or by contacting
 `michalslonina` on GitHub. Removal is immediate.
