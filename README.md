@@ -4,6 +4,12 @@
 Salamander Drumkit (Alexander Holm) and SM Drums (Scott McLean), under their own names from
 the two mirrors this pool is built out of.
 
+**This is a remix, assembled for [LARG](https://github.com/michalslonina/lustiger)** — the
+drum engine loads one directory and every pad of the kit answers. It is not a release of
+either pack, the selection is not the authors', and it carries no endorsement from them.
+Every sample was recorded by the people credited below; what this repository adds is a
+choice of which ones and a name for each.
+
 ## Why this repository exists
 
 The [Millenium MPS-600](https://www.thomann.de/gb/millenium_mps_600.htm) is a Medeli DD-508
@@ -89,13 +95,34 @@ explicitly does not treat as an Adaptation, so the ShareAlike term stays with th
 files and does not reach the smdrums ones. [`NOTICE.md`](NOTICE.md) quotes the definitions
 and spells out the split.
 
-## Credits
+## Attribution
 
-- **Scott McLean** — drums; engineered and recorded all SM Drums drum and cymbal samples.
-- **Tod Stillwell** — edited the SMDrum samples.
-- **Suleiman Ali** — created the SM Drums web site.
-- **D. Smolken** — SM Drums SFZ programming.
-- **Alexander Holm** — author of the Salamander Drumkit; recorded it in 2009.
+Everything audible here was recorded by someone else. This repository adds no authorship of
+its own: it selects, copies and renames. Which grant a given file is under is stated per
+file in [`PROVENANCE.csv`](PROVENANCE.csv), and both grants are set out in
+[`NOTICE.md`](NOTICE.md).
+
+**SM Drums** — 240 of the 255 files
+
+| | |
+|---|---|
+| Title | SM Drums |
+| Authors | **Scott McLean** — drums; engineered and recorded every drum and cymbal sample. **Tod Stillwell** — edited the SMDrum samples; co-authored the Sforzando user guide. **Suleiman Ali** — created the SM Drums web site. **D. Smolken** — SFZ programming; co-authored the Sforzando user guide. |
+| Source | <https://github.com/sfzinstruments/SMDrums> · <https://smmdrums.wordpress.com/> |
+| Announcement | <https://www.kvraudio.com/forum/viewtopic.php?p=6072198> |
+| Licence | **None published.** The project states: "ALL of the content on this website is for FREE royalty free use by anyone for anything." |
+
+**Salamander Drumkit** — 15 of the 255 files
+
+| | |
+|---|---|
+| Title | Salamander Drumkit |
+| Author | **Alexander Holm** — built and recorded the kit in 2009. The upstream README names no other author or contributor. |
+| Source | <https://archive.org/details/SalamanderDrumkit> |
+| Licence | **CC BY-SA 3.0** — <https://creativecommons.org/licenses/by-sa/3.0/> · full text in [`LICENSE`](LICENSE) |
+
+The SM Drums names came from the pack's own credits; the Salamander attribution follows the
+TASL quartet — title, author, source, licence — that CC BY-SA 3.0 requires.
 
 ## Links
 
@@ -103,6 +130,7 @@ and spells out the split.
 - SM Drums announcement: <https://www.kvraudio.com/forum/viewtopic.php?p=6072198>
 - SM Drums upstream: <https://github.com/sfzinstruments/SMDrums>
 - Salamander Drumkit: <https://archive.org/details/SalamanderDrumkit>
+- The packs these were selected from: [smdrums](https://github.com/michalslonina/drum-samples-smdrums), [salamander](https://github.com/michalslonina/drum-samples-salamander)
 
 ## What is here
 
@@ -113,10 +141,24 @@ and spells out the split.
 | Opus | 25.9 MiB — 7.4 % of the source |
 | decoded as i16 | 231.5 MiB |
 | decoded as f32 | 463.0 MiB |
+| audio | 1,367.6 s across the 255 files |
 | longest sample | 13.00 s (a cymbal tail) |
 
 The decoded figures are the whole pool held in memory as PCM, which is the cost of a
 sampler that keeps every layer resident. A streaming consumer needs only the Opus side.
+
+### The tails are not trimmed
+
+Cymbals ring. 103 of the 255 samples run past 4 s, and those 103 hold 174.4 MiB of the
+231.5 MiB. Cutting them to 3 s would take the pool to 103.5 MiB — a 55 % saving — and cost
+the decay that makes a crash a crash. This repository does not do it: the audio here is the
+upstream audio, and a trimmed file is no longer it.
+
+The engine bounds the same cost without touching the files. A kit patch declares
+`length_secs` per drum and is baked to exactly `length_secs × sample_rate` frames, so a 13 s
+ride can ship here and occupy 3 s in memory. **Cut the tail in the patch, not in the
+sample** — a number in the kit is reversible and leaves the recordings intact; a shorter file
+is neither.
 
 ## Layout
 

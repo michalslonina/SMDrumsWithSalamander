@@ -1,7 +1,8 @@
 # NOTICE
 
-This repository holds samples from **two** packs under **two** different grants. Which
-applies is a property of the file, and `PROVENANCE.csv` states it in the `licence` column.
+This repository is a **remix assembled for [LARG](https://github.com/michalslonina/lustiger)**.
+It holds samples from **two** packs under **two** different grants. Which applies is a
+property of the file, and `PROVENANCE.csv` states it in the `licence` column.
 
 | Origin | Files | Grant |
 |---|---|---|
